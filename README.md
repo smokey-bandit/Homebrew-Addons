@@ -4,7 +4,7 @@ just as a note, most of what is here will require other mods to work properly, p
 thanks for checking this out and I hope you enjoy my work!
 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
